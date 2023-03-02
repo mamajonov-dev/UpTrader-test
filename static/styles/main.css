@@ -1,0 +1,15 @@
+
+table, tr, td, th{
+       padding: 15px;
+            font-size: 20px;
+            border: 2px solid black;
+    }
+
+h1{
+color: red;
+}
+.create{
+margin: 0 50px;
+}
+nav{
+display: flex; align-items: center;}
